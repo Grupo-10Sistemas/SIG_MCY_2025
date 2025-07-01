@@ -94,15 +94,5 @@ python main.py
 - Contraseña: `tu_clave`
 - Base de datos: `EmpresaDB` (ya se conecta automáticamente)
 
----
 
-## 🎥 Demostración en Video
 
-📺 Puedes ver el sistema en acción en el siguiente video (disponible en el repositorio o como link externo si lo subes a YouTube).
-
----
-
-## 👨‍💻 Créditos
-
-Proyecto realizado por el Grupo 10 – ICN292  
-Ingeniería Civil Industrial – UTFSM, 2025
