@@ -1,6 +1,6 @@
 # 📦 SIG MCY 2025 – Sistema de Gestión Interna para Maquinarias MCY SpA
 
-Este proyecto corresponde al desarrollo de un sistema de gestión administrativa para la empresa **Maquinarias MCY SpA**, como parte del trabajo final del curso **ICN292 – Sistemas de Información para la Gestión** (UTFSM, 2025-1).
+Este proyecto corresponde al desarrollo de un sistema de gestión administrativa para la empresa **Maquinarias MCY SpA**, como parte del trabajo final del curso **ICN292 – Sistemas de Información para la Gestión** .
 
 El sistema fue desarrollado en **Python con PyQt5** y utiliza una base de datos **MySQL** para gestionar las operaciones clave del negocio, como el control de clientes, facturación, seguimiento de equipos, entre otros.
 
